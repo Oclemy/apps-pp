@@ -3,7 +3,7 @@
 
 **Privacy Policy**
 
-Clement Ochieng built the Animal Planet HD app as a Free app. This SERVICE is provided by Clement Ochieng and is intended for use as is.
+Clement Ochieng built the Animal Planet HD app as a Freemium app. This SERVICE is provided by Clement Ochieng and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
