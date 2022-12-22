@@ -1,3 +1,5 @@
+# Chill Music App Privacy Policy
+
 **Privacy Policy**
 
 Clement Ochieng built the Chill Music app as a Freemium app. This SERVICE is provided by Clement Ochieng and is intended for use as is.
